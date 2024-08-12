@@ -1,0 +1,11 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body
+{
+    background:linear-gradient(to bottom,
+        #121C2D,
+        #0B121F );
+        height:100vh;
+}
